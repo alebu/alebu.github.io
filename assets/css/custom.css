@@ -1,0 +1,52 @@
+body {
+    background-color: #EBF6F3;
+    color: #222;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.7;
+    font-size: 1.05rem;
+}
+
+/* Justify all content inside main content blocks */
+.post-content, .page-content {
+    text-align: justify;
+  }
+  
+  /* Optional: keep headers left-aligned for readability */
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .page-content h1,
+  .page-content h2,
+  .page-content h3 {
+    text-align: left;
+  }
+
+  /* .page-content, .post-content {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.05rem;
+    line-height: 1.65;
+  } */
+
+  /* === Headings === */
+  h1, h2, h3, h4 {
+    font-family: 'Helvetica Neue', sans-serif;
+    color: #001A72;  /* Only navy as a primary accent */
+    margin-top: 2rem;
+    line-height: 1.3;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 2em 0;
+  }
+
+/* === Code === */
+code, pre {
+    background: #f6f6f6;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 0.95rem;
+    color: #444;
+  }
