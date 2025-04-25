@@ -41,7 +41,7 @@ body {
     margin: 2em 0;
   }
 
-/* === Code === */
+/* === Code ===
 code, pre {
     background: #f6f6f6;
     padding: 0.2em 0.4em;
@@ -49,4 +49,29 @@ code, pre {
     font-family: monospace;
     font-size: 0.95rem;
     color: #444;
-  }
+  } */
+
+/* General code block styling */
+.highlight {
+  background-color: #EBF6F3;
+  color: #001A72;
+  border-radius: 0.5em;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+/* Strings */
+.highlight .s {
+  color: #FC4C02; /* orange */
+}
+
+/* Comments */
+.highlight .c {
+  color: #00A499; /* greenish */
+  font-style: italic;
+}
+
+/* Keywords */
+.highlight .k {
+  color: #41B6E6
+}
