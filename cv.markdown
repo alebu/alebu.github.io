@@ -75,24 +75,4 @@ _University of Perugia | May 2013_
 
 ---
 
-## **Skills**  
-
-### **Programming & Tools**  
-- **Languages:** Python, SQL, MATLAB, R, C, Java  
-- **Machine Learning:** Ensemble Methods (e.g. XGBoost, LightGBM, Random Forests), Deep Learning, Generalised Linear Models  
-- **Data Infrastructure:** AWS, SageMaker, Docker, Spark  
-
-### **Mathematics & Quantitative Methods**  
-- **Metrics & Analysis:** Business KPI development, product metrics design, A/B testing, causal evaluation  
-- **Statistical Modelling:** Bayesian inference, time series analysis, causal inference  
-- **Probability & Risk Modelling:** Credit risk, insurance pricing, survival analysis  
-- **Stochastic Processes:** Monte Carlo simulations, stochastic optimisation  
-
-### **Finance & Risk**  
-- **Credit Risk Modelling**  
-- **Macroeconomic Stress Testing**  
-- **Insurance Pricing & Actuarial Techniques**  
-
----
-
 _Last updated: March 2025_  
